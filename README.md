@@ -1,0 +1,57 @@
+# Hi, I'm Sxlmons! 👋
+
+## About Me
+I'm a Software Engineer at Sparkfuze, passionate about all things computer science and software design. I have experience with various languages and frameworks, including .NET C#, C++, C, as well as database tools such as SQLite and MySQL.
+
+### 🔭 Currently Working On
+- **FileLink**: A SaaS application built in C# that serves as a platform for remote storage.  
+- **EasyWeather**: A weather service app that displays geo-fenced regions with local forecasts.
+
+### 🌱 Currently Learning
+- C#/.NET  
+- Swift/SwiftUI  
+- React Native  
+
+### ⚡ Fun Fact
+- I’m a 2nd-year Computer Science student at Conestoga College.
+
+---
+
+## My Skills
+
+- **Languages**: C#, C++, C, Swift  
+- **Frameworks/Libraries**: ASP.NET, React Native, Qt  
+- **Tools**: Git, Docker  
+- **Interests**: Software Design, Software Testing, AI
+
+---
+
+## Projects
+
+Here are a few projects I’m proud of:
+
+- [**FileLink**](https://github.com/sxlmons/FileLink)  
+  A SaaS application built in C# that serves as a platform for remote storage.  
+- [**Driverite**](https://github.com/glaslan/Driverite)  
+  A mobile driver analytics application for driver evaluation. 
+- [**Airline Management System**](https://github.com/sxlmons/FlightReservationSystem)  
+  A proof of concept airline system built in C, using foundational data structures and algorithms.
+
+Check out more of my work in my [repositories](https://github.com/Sxlmons?tab=repositories).
+
+---
+
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxlmons&layout=compact)
+
+---
+
+<!--
+  Optionally, add a section for contact or social links:
+  
+  ## Get in Touch
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](YOUR_LINKEDIN_URL)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](YOUR_TWITTER_URL)
+  [![Website](https://img.shields.io/badge/-Website-lightgrey)](YOUR_WEBSITE_URL)
+-->
+
