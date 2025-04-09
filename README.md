@@ -42,9 +42,12 @@ Check out more of my work in my [repositories](https://github.com/Sxlmons?tab=re
 ---
 
 ## GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxlmons&layout=compact)
 
----
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sxlmons&show_icons=true)
+
+
 
 <!--
   Optionally, add a section for contact or social links:
