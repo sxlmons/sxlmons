@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sxlmons&style=flat-square)
+[![Gmail](https://img.shields.io/badge/Gmail-salmonsjoshuaa@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:salmonsjoshuaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Salmons-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-salmons)
+
 # Hi, I'm Sxlmons! 👋
 
 ## About Me
