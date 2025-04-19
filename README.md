@@ -5,7 +5,7 @@
 # Hi, I'm Sxlmons! 👋
 
 ## About Me
-I'm a Software Developer, passionate about all things computer science and software design. I have experience with various languages and frameworks, including .NET C#, C++, C, as well as database tools such as SQLite and MySQL.
+I'm a SWE @ Sparkfuze, passionate about all things computer science and software design. I have experience with various languages and frameworks, including .NET C#, C++, C, as well as database tools such as SQLite and MySQL.
 
 ### 🔭 Currently Working On
 - **FileLink**: A SaaS application built in C# that serves as a platform for remote storage.  
