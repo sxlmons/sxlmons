@@ -17,7 +17,7 @@ I'm a Software Developer @ Sparkfuze, passionate about all things computer scien
 - React Native  
 
 ### ⚡ Fun Fact
-- I’m a 2nd-year Computer Science student at Conestoga College.
+- I’m a 3rd-year Computer Science student at Conestoga College.
 
 ---
 
